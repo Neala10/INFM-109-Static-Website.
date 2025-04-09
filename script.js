@@ -14,10 +14,11 @@ const courses = [
 // Click event handler
 courseButton.addEventListener('click', function() {
     // Pick a random courseing
-    const randomIndex = Math.floor(Math.random(2) * courses.length);
+    const randomIndex = Math.floor(Math.random(1) * courses.length);
     const course = courses["INFM 109",
-    "SDEV 120"
-    "INFM 120"];
+    "SDEV 120",
+    "INFM 120"]
+
     
     // Display the course
     messageElement.textContent = course;
