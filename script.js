@@ -8,7 +8,7 @@ const courses = [
     "INFM 109",
     "SDEV 120",
     "INFM 120",
-    SDEV 140
+    "SDEV 140"
 ];
 
 // Click event handler
