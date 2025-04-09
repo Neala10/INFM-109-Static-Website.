@@ -6,7 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f5ff;
+    background-color: #2813e7;
 }
 
 .container {
@@ -23,8 +23,8 @@ h1 {
     margin-bottom: 1rem;
 }
 
-p {
-    color: #555;
+h2 {
+    color: #e42929;
     margin-bottom: 1.5rem;
 }
 
