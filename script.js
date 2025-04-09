@@ -3,13 +3,13 @@
 const courseButton = document.getElementById('courseButton');
 const messageElement = document.getElementById('message');
 
-// Array of friendly courseings
-const courses = [
-    "INFM 109",
+// ArraINFM 109",
     "SDEV 120",
     "INFM 120",
-    "SDEV 140"
-];
+    "SDEV 140"]y of friendly courseings
+const courses = [
+    "
+
 
 // Click event handler
 courseButton.addEventListener('click', function() {
